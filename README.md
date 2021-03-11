@@ -1,7 +1,7 @@
 # Inteligência Artificial - Trabalho 02: Algoritmos Genéticos
 
 #### Membros
-Hellesandro Gonzaga de Carvalho (20161BSI0390)
+Hellesandro Gonzaga de Carvalho (20161BSI0390)<br>
 Renato da Silva Bellumat (20151BSI0312)
 
 ### Especificação:
